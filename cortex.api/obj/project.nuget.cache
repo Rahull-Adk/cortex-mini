@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9SqMkkoDGVs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shane\\Documents\\cortex-mini\\cortex-server\\cortex.api\\cortex.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shane\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Shane\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\Shane\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}
